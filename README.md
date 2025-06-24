@@ -14,8 +14,4 @@ O app permite ao usuário visualizar gráficos que ajudam a entender caracterís
 - Exibição de gráfico de dispersão comparando quilometragem (`odometer`) e preço (`price`)
 - Interface simples e interativa com caixas de seleção para mostrar ou esconder os gráficos
 
-## Como rodar
 
-1. Certifique-se de ter Python e Streamlit instalados:
-   ```bash
-   pip install streamlit pandas plotly
