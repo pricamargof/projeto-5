@@ -27,3 +27,4 @@ if build_scatter:
     st.plotly_chart(fig_scatter, use_container_width=True)
     
 
+#ajuste
