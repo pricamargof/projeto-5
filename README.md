@@ -12,6 +12,6 @@ O app permite ao usuário visualizar gráficos que ajudam a entender caracterís
 
 - Exibição de histograma da quilometragem (`odometer`)
 - Exibição de gráfico de dispersão comparando quilometragem (`odometer`) e preço (`price`)
-- Interface simples e interativa com caixas de seleção para mostrar ou esconder os gráficos
+- Interface simples e interativa com caixas de seleção para mostrar os gráficos
 
 
